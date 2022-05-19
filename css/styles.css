@@ -1,0 +1,41 @@
+@import url("https://use.typekit.net/ymn0tri.css");
+
+h1 {font-family: futura-pt-bold, sans-serif;
+font-weight: 700;
+font-style: normal;}
+
+.categories {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;font-weight: 200;font-size: 20px;
+  letter-spacing: 0px;
+  word-spacing: 30px;
+}
+.featured-text {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;font-weight: 200;font-size: 45px;
+  letter-spacing: 5px;
+}
+.runway-text {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;font-weight: 200;font-size: 55px;
+  letter-spacing: 10px;
+}
+.trademark {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;font-weight: 100;font-size: 8px;
+  letter-spacing: 0px;
+}
+.name-text {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;font-weight: 20;font-size: 15px;
+  letter-spacing: 0px;
+}
+.bag-text {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;font-weight: 20;font-size: 20px;
+  letter-spacing: 0px;
+}
+.look-text {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;font-weight: 500;font-size: 18px;
+  letter-spacing: 0px;
+}
+
+
+/*command+question mark creates comments  */
+/* rename class to be able to target class and make changes */
+/* ask professor kelly about how to import images and icons */
+/* for footer text use paragraph tag and then a line break/ use padding to organize it*/
